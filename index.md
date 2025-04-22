@@ -7,3 +7,8 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+## a code block!
+
+``` java
+System.out.println("It's a message!);
+```
