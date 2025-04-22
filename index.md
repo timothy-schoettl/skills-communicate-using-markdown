@@ -3,4 +3,7 @@
 ## This is a test markdown header (2)
 
 ###### The actual test: (6)
-test
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
